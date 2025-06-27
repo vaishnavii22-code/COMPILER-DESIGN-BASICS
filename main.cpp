@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
 #include <cctype> //to check if characters are whitespaces or digits
-//#include <stdexcept>
 using namespace std;
 class parser
 {
